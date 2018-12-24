@@ -22,6 +22,6 @@ const iLoveTheBeatles = (num) => {
     arr.push('I Love the Beatles!');
     num += 1;
   }
-  while (num < 15;)
+  while (num < 15)
   return arr;
 }
